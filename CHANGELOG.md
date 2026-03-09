@@ -1,5 +1,18 @@
 # Changelog
 
+## 2026-03-09 - 리포트 파일 구조 개편
+
+### 변경 사항
+- 단일 통합 리포트(`2026-hospital-research.md`)를 5개 파일로 분리
+  - `2026-final-recommendation.md`: 최종 추천 및 병원별 최적 조합
+  - `2026-health-analysis.md`: 개인 검진결과 분석 및 2026 추천
+  - `2026-nearby-hospitals.md`: 신도림 근거리 병원 (무환승)
+  - `2026-transfer-hospitals.md`: 서울 환승 병원
+  - `2026-pangyo-hospitals.md`: 판교/분당 병원 + 아폴로 피부시술
+- README에 리포트 읽는 순서 가이드 추가
+
+---
+
 ## 2026-03-09 - 환승/판교 병원 추가 조사
 
 ### 서울 환승 병원 (19곳)
